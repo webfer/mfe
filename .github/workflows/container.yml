@@ -1,4 +1,4 @@
-name: dep-container
+name: depploy-container-01
 
 on:
   push:
