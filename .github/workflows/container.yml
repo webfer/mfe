@@ -1,4 +1,4 @@
-name: depploy-container-01
+name: Deploy AWS S3
 
 on:
   push:
